@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Test new page
-date: '2018-05-25T14:17:37+01:00'
+date: '2018-05-24T14:17:37+01:00'
 description: 'You know this page is about to get tested, son!'
 tags:
   - Test
